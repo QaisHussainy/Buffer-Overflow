@@ -1,6 +1,6 @@
 import socket
 
-# Create an array of buffers, from 10 to 200, with increments of 10.
+
 counter = 10
 fuzz_strings = ["A"]
 
